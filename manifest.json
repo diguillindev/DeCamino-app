@@ -15,7 +15,7 @@
       {
         "src": "img/marca_nubleweb.webp",
         "sizes": "512x512",
-        "type": "image/png"
+        "type": "image/webp"
       }
     ]
   }
