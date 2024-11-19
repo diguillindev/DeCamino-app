@@ -1,22 +1,23 @@
 {
-    "name": "Mi Aplicación Vue PWA",
-    "short_name": "VuePWA",
-    "description": "Una aplicación Vue como PWA",
-    "start_url": ".",
-    "display": "standalone",
-    "background_color": "#ffffff",
-    "theme_color": "#42b983",
-    "icons": [
-      {
-        "src": "img/marca_nubleweb.png",
-        "sizes": "192x192",
-        "type": "image/png"
-      },
-      {
-        "src": "img/marca_nubleweb.png",
-        "sizes": "512x512",
-        "type": "image/png"
-      }
-    ]
+  "name": "Mi Aplicación Vue PWA",
+  "short_name": "VuePWA",
+  "description": "Una aplicación Vue como PWA",
+  "start_url": "/DeCamino-app/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#42b983",
+  "icons": [
+  {
+    "src": "/DeCamino-app/img/marca_nubleweb.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },
+  {
+    "src": "/DeCamino-app/img/marca_nubleweb.png",
+    "sizes": "512x512",
+    "type": "image/png"
   }
+]
+}
+
   
